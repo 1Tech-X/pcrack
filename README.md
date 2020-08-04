@@ -5,7 +5,7 @@
 
 # About 
 
-- This to is wriiten in bash script using package hydra for cracking password
+- This to is written in bash using package hydra for cracking password
 
 # Installation
 
