@@ -11,7 +11,7 @@
 
 # Installation
 
-- git clone https://github.com/1Tech-X/pcrack/edit/master/pcrack.git
+- git clone https://github.com/1Tech-X/pcrack.git
 
 - cd pcrack
 
